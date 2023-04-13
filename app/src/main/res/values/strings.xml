@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="sunrise">Sunrise</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind Speed</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="search_place">Search Place</string>
+    <string name="change_view">CHANGE VIEW</string>
+
+    <string name="screen">whole screen</string>
+    <string name="icon">weather icon</string>
+</resources>
