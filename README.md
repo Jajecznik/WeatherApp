@@ -1,1 +1,1 @@
-Simple weather app that used OpenWeatherMap API and displays primary information about weather, 
+A simple weather application that uses the OpenWeatherMap API and displays basic weather information. Includes an additional view for older people.
